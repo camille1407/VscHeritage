@@ -1,0 +1,16 @@
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\VscHeritage.exe
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\VscHeritage.deps.json
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\VscHeritage.runtimeconfig.json
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\VscHeritage.runtimeconfig.dev.json
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\VscHeritage.dll
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\ref\VscHeritage.dll
+C:\Users\Camil\VscHeritage\bin\Debug\net5.0\VscHeritage.pdb
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.csproj.AssemblyReference.cache
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.AssemblyInfoInputs.cache
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.AssemblyInfo.cs
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.dll
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\ref\VscHeritage.dll
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.pdb
+C:\Users\Camil\VscHeritage\obj\Debug\net5.0\VscHeritage.genruntimeconfig.cache
